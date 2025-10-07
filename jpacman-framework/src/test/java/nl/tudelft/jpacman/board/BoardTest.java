@@ -29,6 +29,8 @@ class BoardTest {
     @Test
     void verifyWidth() {
         // TODO
+        assertThat(board.getWidth()).isEqualTo(MAX_WIDTH);
+
     }
 
     /**
@@ -37,6 +39,7 @@ class BoardTest {
     @Test
     void verifyHeight() {
         // TODO
+        assertThat(board.getHeight()).isEqualTo(MAX_HEIGHT);
     }
 
     /**
@@ -52,5 +55,7 @@ class BoardTest {
     })
     void testSquareAt(int x, int y) {
         // TODO
+        assertThat(x).isStrictlyBetween(-1, MAX_WIDTH + 1);
+        assertThat(y).isStrictlyBetween(-1, MAX_HEIGHT + 1);
     }
 }
