@@ -2,3 +2,7 @@
 2025-11-04 09:24:14.347 - Debug - Web socket state : Connecting
 2025-11-04 09:24:14.388 - Error - Websocket failure : Hôte inconnu (gamification.thibber.be)
 2025-11-04 09:24:14.389 - Debug - Web socket state : Error
+2025-11-13 11:01:04.661 - Debug - Connect to wss://gamification.thibber.be/ws
+2025-11-13 11:01:04.662 - Debug - Web socket state : Connecting
+2025-11-13 11:01:04.844 - Error - Websocket failure : Hôte inconnu (gamification.thibber.be)
+2025-11-13 11:01:04.847 - Debug - Web socket state : Error
