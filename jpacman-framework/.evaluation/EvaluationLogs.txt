@@ -6,3 +6,11 @@
 2025-11-13 11:01:04.662 - Debug - Web socket state : Connecting
 2025-11-13 11:01:04.844 - Error - Websocket failure : Hôte inconnu (gamification.thibber.be)
 2025-11-13 11:01:04.847 - Debug - Web socket state : Error
+2025-11-13 11:41:01.536 - Debug - Connect to wss://gamification.thibber.be/ws
+2025-11-13 11:41:01.538 - Debug - Web socket state : Connecting
+2025-11-13 11:41:01.675 - Error - Websocket failure : Hôte inconnu (gamification.thibber.be)
+2025-11-13 11:41:01.676 - Debug - Web socket state : Error
+2025-11-13 12:08:05.275 - Debug - Connect to wss://gamification.thibber.be/ws
+2025-11-13 12:08:05.276 - Debug - Web socket state : Connecting
+2025-11-13 12:08:05.638 - Error - Websocket failure : Hôte inconnu (gamification.thibber.be)
+2025-11-13 12:08:05.64 - Debug - Web socket state : Error
